@@ -63,7 +63,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>nousheed.mohamed@whishworks.com</username>
+					<username>nousheed-mohamed</username>
 					<password>nMohamed123</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
